@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4343602446",
+    "project_id": "agrohub-8b592",
+    "storage_bucket": "agrohub-8b592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4343602446:android:9dbc274bb97d600b648b5f",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.agrohub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJ2tyVJeGWF0KkIZafo1uG0JMCl0Aqmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
